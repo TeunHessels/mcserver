@@ -10,7 +10,7 @@ cd server
 
 # -- EDIT HERE | DO NOT EDIT ABOVE -- #
 SERVER_JARFILE=server.jar # LEAVE THIS PART ALONE
-MC_VERSION=latest # MC_VERSION : BUILD_TYPE: https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+MC_VERSION=1.12.2 # MC_VERSION : BUILD_TYPE: https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
 BUILD_TYPE=recommended
 # -- EDIT HERE | DO NOT EDIT BELOW -- # 
 
